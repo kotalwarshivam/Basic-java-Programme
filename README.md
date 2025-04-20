@@ -2,7 +2,7 @@
 
 # 🚀 Java Basics - Day 1 Programming Practice
 
-Welcome to my **Java Basics** project repository! 🎉 This is **week 1** of my Java learning journey, where I have solved **14 beginner-level programs** that cover the foundation of programming logic, number handling, conditions, and arrays.
+Welcome to my **Java Basics** project repository! 🎉 This is week 1 of my Java learning journey, where I have solved **16 beginner-level programs** that cover the foundation of programming logic, number handling, conditions, and arrays.
 
 These programs are designed to build **strong logic-building skills**, improve **problem-solving ability**, and prepare for **technical interviews** for roles like **Automation Tester**, **Java Developer**, or **Full-Stack Developer**.
 
